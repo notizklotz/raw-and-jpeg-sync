@@ -10,7 +10,7 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="raw-plus-jpeg-syncer" target="12" />
+      <module name="raw-plus-jpeg-syncer" target="11" />
     </bytecodeTargetLevel>
   </component>
 </project>
